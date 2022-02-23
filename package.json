@@ -1,0 +1,22 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "server-for-dims",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoKuD/json-server-for-dims.git"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  },
+  "author": "leokud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoKuD/json-server-for-dims/issues"
+  },
+  "homepage": "https://github.com/LeoKuD/json-server-for-dims#readme"
+}
