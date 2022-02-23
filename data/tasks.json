@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": "0",
+      "name": "Creat Button",
+      "description": "Color red",
+      "startDate": "16.02.2022",
+      "deadlineDate": "25.02.2022",
+      "status": "active",
+      "track": { "data": "25.02.2022", "node": "node Taks 1" },
+      "subTasks": [
+        {
+          "id": "1",
+          "name": "creat component",
+          "description": "creat class component",
+          "track": { "data": "25.02.2022", "node": "node subTaks 2" },
+          "date": "25.02.2022"
+        },
+        {
+          "id": "2",
+          "name": "hendle props",
+          "description": "destruction",
+          "track": { "data": "25.02.2022", "node": "node subTaks 2" },
+          "date": "25.02.2022"
+        }
+      ],
+      "subscribers": ["0", "1"]
+    },
+    {
+      "id": "1",
+      "name": "Add propType",
+      "description": "type string",
+      "startDate": "16.02.2022",
+      "deadlineDate": "24.02.2022",
+      "status": "",
+      "track": { "data": "25.02.2022", "node": "node Taks 2" },
+      "subTasks": [
+        {
+          "id": "1",
+          "name": "add library",
+          "description": "add library desc",
+          "date": "25.02.2022"
+        },
+        {
+          "id": "2",
+          "name": "sub 2",
+          "description": "sub 2 destruction",
+          "date": "25.02.2022"
+        }
+      ],
+      "subscribers": ["1"]
+    }
+  ]
+}
