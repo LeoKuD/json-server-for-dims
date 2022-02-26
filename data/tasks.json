@@ -23,8 +23,7 @@
           "track": { "data": "25.02.2022", "node": "node subTaks 2" },
           "date": "25.02.2022"
         }
-      ],
-      "subscribers": ["0", "1"]
+      ]
     },
     {
       "id": "1",
@@ -47,8 +46,7 @@
           "description": "sub 2 destruction",
           "date": "25.02.2022"
         }
-      ],
-      "subscribers": ["1"]
+      ]
     }
   ]
 }

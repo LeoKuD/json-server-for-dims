@@ -15,7 +15,7 @@
       "mobilePhone": "+37529-1414144",
       "skype": "ivanSkype",
       "startDate": "16.01.2022",
-      "tasks": [1]
+      "tasksId": ["0"]
     },
     {
       "id": "1",
@@ -32,7 +32,7 @@
       "mobilePhone": "+37529-2222222",
       "skype": "olyaSkype",
       "startDate": "15.01.2022",
-      "tasks": [0]
+      "tasksId": ["0", "1"]
     }
   ]
 }
