@@ -1,12 +1,12 @@
 
 const users = require('./data/users');
 const tasks = require('./data/tasks');
-const subTasks = require('./data/subTasks');
+const subtasks = require('./data/subtasks');
 const tracks = require('./data/tracks');
 
 module.exports = {
   users,
   tasks,
-  subTasks,
+  subtasks,
   tracks,
 };
