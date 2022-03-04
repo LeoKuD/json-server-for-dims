@@ -1,10 +1,10 @@
 [
-  { "id": "0", "taskId": "0", "data": "25.02.2022", "node": "node Taks 1" },
-  { "id": "1", "taskId": "1", "data": "25.02.2022", "node": "node Taks 2" },
+  { "id": "0", "taskId": "0", "date": "25.02.2022", "node": "node Taks 1" },
+  { "id": "1", "taskId": "1", "date": "25.02.2022", "node": "node Taks 2" },
   {
     "id": "2",
     "taskId": "1",
-    "data": "26.02.2022",
+    "date": "26.02.2022",
     "node": "node 2 for Taks 1"
   }
 ]
